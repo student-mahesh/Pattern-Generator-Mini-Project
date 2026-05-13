@@ -69,8 +69,7 @@ public class PatternGenerator {
             }
         }   
     
-        
-            
+    sc.close();      
             
     }
           
