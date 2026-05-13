@@ -48,6 +48,7 @@ Right Triangle Pattern
 ****
 *****
 
+
 Center Pyramid Pattern
 
    *
@@ -56,21 +57,15 @@ Center Pyramid Pattern
  *******
 *********
 
+
 Inverted Pyramid Pattern
 
 *********
  *******
   *****
    ***
-   *
+  * 
 
-Reverse Triangle Pattern
-
-*****
-****
-***
-**
-*
 ---
 
 🎯 Learning Outcome
