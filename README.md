@@ -40,11 +40,15 @@ java PatternGenerator
 
 📷 Example Output
 
+Right Triangle Pattern
+
 *
 **
 ***
 ****
 *****
+
+Center Pyramid Pattern
 
     *
    ***
@@ -52,6 +56,21 @@ java PatternGenerator
  *******
 *********
 
+Inverted Pyramid Pattern
+
+*********
+ *******
+  *****
+   ***
+    *
+
+Reverse Triangle Pattern
+
+*****
+****
+***
+**
+*
 ---
 
 🎯 Learning Outcome
