@@ -42,34 +42,32 @@ java PatternGenerator
 
 # 🎯 Pattern Output (Java Project)
 
+## Right Triangle Pattern
 ```
-┌──────────────────────────────┐
-│ Right Triangle Pattern       │
-└──────────────────────────────┘
 *
 **
 ***
 ****
 *****
+```
 
-┌──────────────────────────────┐
-│ Center Pyramid Pattern       │
-└──────────────────────────────┘
+## Center Pyramid Pattern
+```
     *
    ***
   *****
  *******
 *********
+```
 
-┌──────────────────────────────┐
-│ Inverted Pyramid Pattern     │
-└──────────────────────────────┘
+## Inverted Pyramid Pattern
+```
 *********
  *******
   *****
    ***
     *
-
+```
 
 ```
 
