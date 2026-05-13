@@ -70,16 +70,15 @@ java PatternGenerator
    ***
     *
 
-┌──────────────────────────────┐
-│ Reverse Triangle Pattern     │
-└──────────────────────────────┘
+## 🔻 Reverse Right Triangle Pattern
+
+```
+*****
+****
 ***
 **
 *
-**
-***
 ```
----
 
 🎯 Learning Outcome
 
